@@ -1,1 +1,1 @@
-# WordChecker-String-manipulation-Algorithm
+# WordChecker-String-Manipulation-Algorithm
